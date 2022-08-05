@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">QuickCash</string>
+    <string name="registration">Registration</string>
+    <string name="InvalidEmail">Invalid Email Format</string>
+    <string name="InvalidPassword">Password must be at least 6 characters and includes
+    1 contains one uppercase and one lower case</string>
+
+    <string name="createAccountButton">Create Account</string>
+    <string name="signInButton">Sign In</string>
+    <string name="continueAsGuestButton">Continue as Guest ></string>
+    <string name="mainPageImage">Main page image</string>
+    <string name="UserAlreadyExists">Account information already exits in database</string>
+    <string name="UnsuccessfulSignUp">Registration was not successful</string>
+    <string name="SuccessfulSignUp">Registration was successful</string>
+    <string name="profileCreated">User Profile Has Been Created Successfully</string>
+    <string name="profileEdited">User Profile Has Been Edited Successfully</string>
+    <string name="profileDelete">User Profile Has Been Deleted Successfully</string>
+    <string name="YouAreSignedIn">Welcome!\n You are Signed In</string>
+    <string name="YouAreSignedOut">You are Signed Out</string>
+    <string name="ExpectedDateError">Expected date is required to post</string>
+    <string name="selectATask">Select A Task Category</string>
+    <string name="selectATaskMissing">Please select a task category</string>
+    <string name="missingDescPostATask">Please add some description</string>
+    <string name="costMissingPostATask">compensation field is required</string>
+    <string name="emptyStringMessage">You don\'t have any posts yet, you can start by clicking on the \'Post A New Task\' button below \n------------------</string>
+    <string name="noDeletedPosts">You don\'t have any deleted posts \n------------------</string>
+    <string name="showDeletedPosts">show Deleted</string>
+    <string name="emptyTaskMessage">There are no tasks posted</string>
+
+</resources>
